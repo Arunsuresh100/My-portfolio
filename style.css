@@ -601,4 +601,13 @@ h1 span{
 #skills #p44{
     width:60%;
 }
+@media(max-width:500px)
+{
+#skills h1{
+    font-size: 2.2rem;
+}
+#skills_details{
+    font-size: 1.5rem;
+}
+}
 /* #endregion skills */
